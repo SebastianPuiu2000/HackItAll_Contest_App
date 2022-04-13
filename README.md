@@ -36,3 +36,7 @@ Basically, the flow would be:
 - the agent sends back to the backend the response (again the how is up to you)
 - the backend tells the frontend the response
 - the frontend shows the user the response in the UI
+
+
+![HackItAll](https://user-images.githubusercontent.com/100564136/163218010-1671237f-48ee-45af-aede-cdeac341bbe5.png)
+
