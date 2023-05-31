@@ -1,4 +1,4 @@
-# HackItAll_Contest_App
+# HackItAll 2022 - The Haskelers
 
 Application: File Manager
 
